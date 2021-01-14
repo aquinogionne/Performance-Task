@@ -1,0 +1,22 @@
+ion-content {
+background : linear-gradient(to top,#2c3e50,#3498db,#1c92d2, #E4E5E6, #FFEFBA, #ffffff);
+}
+h2 { 
+  color: #d14200; 
+  text-align: center;
+
+}
+p{
+  color:#000000;
+  text-align: justify;
+  font-family: 'Oswald';
+
+}
+h2.BMI{
+  color: black;
+
+}
+.itemclear {
+  background:transparent;
+
+}
